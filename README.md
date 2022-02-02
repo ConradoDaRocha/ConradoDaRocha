@@ -2,7 +2,7 @@
 
 ## Conrado Da Rocha
 
-My name is Conrado, I'm a 26 years old developer currently working on web applications.
+I'm a 26 years old developer currently working on web applications.
 Enthusiast of the best web & mobile development technologies.
 
 <div>
