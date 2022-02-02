@@ -2,7 +2,7 @@
 
 ## Hello, welcome!
 
-I'm a 26 years old developer currently working on web applications.
+I'm 26 years old developer currently working on web applications.
 Enthusiast of the best web & mobile development technologies.
 
 <div>
