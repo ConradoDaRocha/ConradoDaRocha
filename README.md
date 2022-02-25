@@ -2,8 +2,7 @@
 
 ## Hello, welcome!
 
-I'm 26 years old, currently studying  web applications.
-Enthusiast of the best web & mobile development technologies.
+Developer currently studying web applications. Enthusiast of the best web & mobile development technologies.
 
 <div>
   <a href="mailto:conrado.rocha3293@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
