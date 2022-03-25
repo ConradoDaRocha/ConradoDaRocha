@@ -4,6 +4,8 @@
 
 Developer currently studying web applications. Enthusiast of the best web & mobile development technologies.
 
+skill <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 <div>
   <a href="mailto:conrado.rocha3293@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
    <a href="http://www.linkedin.com/in/conrado-da-rocha-9138b4216" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -11,3 +13,5 @@ Developer currently studying web applications. Enthusiast of the best web & mobi
   <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5555996562258" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   </a>
 </div>
+
+
