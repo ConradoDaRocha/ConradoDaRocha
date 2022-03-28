@@ -4,7 +4,6 @@
 
 Developer currently studying web applications. Enthusiast of the best web & mobile development technologies.
 
-skill <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 <div>
   <a href="mailto:conrado.rocha3293@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
