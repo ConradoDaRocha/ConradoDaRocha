@@ -2,7 +2,7 @@
 
 ## Hello, welcome!
 
-Developer currently studying web applications. Enthusiast of the best web & mobile development technologies.
+Currently studying systems analysis and development, enthusiast of the best web and mobile development technologies.
 
 
 <div>
